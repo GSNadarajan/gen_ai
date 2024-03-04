@@ -4,10 +4,10 @@ This repository provides a brief overview of popular deep learning networks. Eac
 
 Explore each folder for detailed information on each network:
 
-- [Artificial Neural Network (ANN)](./ANN/README.md)
-- [Convolutional Neural Network (CNN)](./CNN/README.md)
-- [Recurrent Neural Network (RNN)](./RNN/README.md)
-- [Reinforcement Learning (RL)](./RL/README.md)
-- [Generative Adversarial Network (GAN)](./GAN/README.md)
+- [Artificial Neural Network (ANN)](./Day1/README.md)
+- [Convolutional Neural Network (CNN)](./Day1/README.md)
+- [Recurrent Neural Network (RNN)](./Day1/README.md)
+- [Reinforcement Learning (RL)](./Day1/README.md)
+- [Generative Adversarial Network (GAN)](./Day1/README.md)
 
 Feel free to dive into each folder to learn more about the specific architectures and their applications.
